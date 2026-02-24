@@ -1,4 +1,4 @@
-# Task 8 - K-Means Clustering (AI & ML Internship)
+# K-Means Clustering (AI & ML Internship)
 
 ## 📌 Objective
 Perform unsupervised learning using K-Means clustering and evaluate cluster quality.
